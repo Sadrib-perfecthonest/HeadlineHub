@@ -3,8 +3,8 @@
 HeadlineHub is a modern news app that provides users with the latest headlines from various news sources and categories. The app fetches real-time news using the News.org API and presents it in an intuitive and engaging UI.
 
 ---
-
-
+## 📖 About HeadlineHub
+HeadlineHub is designed for news enthusiasts who want to stay updated on the latest happenings around the world. Whether it's breaking news, political updates, sports, or entertainment, HeadlineHub delivers it all in one place. Built with Flutter, the app offers a fast and user-friendly experience, making it easy for anyone to access news anytime, anywhere.
 
 ---
 
@@ -64,11 +64,6 @@ HeadlineHub is a modern news app that provides users with the latest headlines f
    ```sh
    flutter run
    ```
-
----
-
-## 📖 About HeadlineHub
-HeadlineHub is designed for news enthusiasts who want to stay updated on the latest happenings around the world. Whether it's breaking news, political updates, sports, or entertainment, HeadlineHub delivers it all in one place. Built with Flutter, the app offers a fast and user-friendly experience, making it easy for anyone to access news anytime, anywhere.
 
 ---
 
