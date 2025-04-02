@@ -50,7 +50,7 @@ HeadlineHub is a modern news app that provides users with the latest headlines f
 ## 📌 How to Use
 1. Clone this repository: 
    ```sh
-   git clone https://github.com/your-username/HeadlineHub.git
+   https://github.com/Sadrib-perfecthonest/HeadlineHub.git
    ```
 2. Navigate to the project directory:
    ```sh
