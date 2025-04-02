@@ -4,9 +4,7 @@ HeadlineHub is a modern news app that provides users with the latest headlines f
 
 ---
 
-## 📱 Screenshots
 
-(Add screenshots here: include home screen, category selection, detailed news view, etc.)
 
 ---
 
